@@ -13,6 +13,8 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: albbalbbbalb
 github_username:  albbalbbbalb
+instagram1_username: albbalbbbalb
+instagram2_username: __init__self
 
 
 # Build settings
